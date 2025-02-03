@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Soy un estudiante en la Universidad de La Laguna
+- Tercer año de Ingeniería Informática
+- Para comunicarse conmigo: alu0101487731@ull.edu.es
+
 <!--
 **danielmarhuenda/danielmarhuenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
